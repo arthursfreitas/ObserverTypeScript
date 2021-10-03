@@ -1,0 +1,26 @@
+{
+  "name": "observer_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.2.1"
+  },
+  "scripts": {
+    "start": "ts-node index.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthursfreitas/ObserverTypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthursfreitas/ObserverTypeScript/issues"
+  },
+  "homepage": "https://github.com/arthursfreitas/ObserverTypeScript#readme"
+}
